@@ -1,10 +1,10 @@
-# Tonedefdev Terracreds
+# Terracreds
 
-## How do I install these formulae?
+## How do I install this formula?
 
-`brew install tonedefdev/terracreds/<formula>`
+`brew install tonedefdev/terracreds/terracreds`
 
-Or `brew tap tonedefdev/terracreds` and then `brew install <formula>`.
+Or `brew tap tonedefdev/terracreds` and then `brew install terracreds`.
 
 ## Documentation
 
